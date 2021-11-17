@@ -1,4 +1,4 @@
 # About
 
-A flttter app that demonstrate BLOC CUBIT through a Todo app.
+A futtter app that demonstrate BLOC CUBIT through a Todo app.
 
