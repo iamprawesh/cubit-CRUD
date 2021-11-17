@@ -1,4 +1,4 @@
-# bloc_sql
+# Bloc cubit
 
 A new Flutter project.
 
