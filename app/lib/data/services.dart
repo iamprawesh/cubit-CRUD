@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 class NetworkServices {
   static final baseUrl =
-      "http://75b7-2400-1a00-b020-f89-e98f-8be8-bddc-eee2.ngrok.io";
+      "http://cc5f-2400-1a00-b020-f89-8154-2b8c-a51e-c92b.ngrok.io";
 
   Future<List<dynamic>> fetchTodos() async {
     print("fetch");

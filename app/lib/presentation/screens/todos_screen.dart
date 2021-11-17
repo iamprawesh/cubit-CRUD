@@ -32,7 +32,7 @@ class _TodosScreenState extends State<TodosScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Todo Bloc"),
+          title: Text("Todo App"),
           actions: [
             InkWell(
               onTap: () {
@@ -87,12 +87,12 @@ class _TodosScreenState extends State<TodosScreen> {
                 },
               ),
             ),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, BLOC_MAIN);
-              },
-              child: Text('Go to Pure Bloc'),
-            )
+            // ElevatedButton(
+            //   onPressed: () {
+            //     Navigator.pushNamed(context, BLOC_MAIN);
+            //   },
+            //   child: Text('Go to Pure Bloc'),
+            // )
           ],
         )
         // body: BlocBuilder<TodoBloc, TodoState>(
