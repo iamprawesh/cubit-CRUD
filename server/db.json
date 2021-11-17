@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todo": "Get to Gym now",
+      "id": 1,
+      "isCompleted": "true"
+    },
+    {
+      "todo": "wake up at 4",
+      "isCompleted": "false",
+      "id": 3
+    },
+    {
+      "todo": "read books",
+      "isCompleted": "true",
+      "id": 4
+    },
+    {
+      "todo": "code now",
+      "isCompleted": "false",
+      "id": 5
+    }
+  ]
+}
